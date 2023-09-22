@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NHq5Gg3090qg2QxYGP8+GfWl+UKMX/moZmV9vpDBary2lW6RzJa05wfFtPJ65lHMAj2KwLk+muQFevZ+cq9+oA==",
+  "dgSpecHash": "LxfbuGIgSOqbGE2RZPvll7BVNrnlb5nn+WaLrVD24bljgtwm6OtB6BfggiEQwJDUrKIGAyGZuKfuSO3utAwR5g==",
   "success": true,
-  "projectFilePath": "c:\\dev\\JwtStore\\JwtStore.Api\\JwtStore.Api.csproj",
+  "projectFilePath": "C:\\dev\\JwtStore\\JwtStore.Api\\JwtStore.Api.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
