@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "x1z8/OoQMvO8WSoW2+LixHnJlIur8O58ry0Se27r4Hsi2iwZgPSHI3Lr7+7xziTr3u7VPUtkJvvJM79r+f6svQ==",
+  "dgSpecHash": "guIeFyHfZ1pWAKkE4cv+Z1oZxYljM/DPE1uczZ5RNurB15AZzk4VdZx3JLYYTE9Y80CK2obZYRN2UFrxrFPV5g==",
   "success": true,
-  "projectFilePath": "C:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj",
+  "projectFilePath": "c:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vpxim\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\vpxim\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
+    "C:\\Users\\vpxim\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
     "C:\\Users\\vpxim\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\vpxim\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\vpxim\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.1\\microsoft.data.sqlclient.5.1.1.nupkg.sha512",

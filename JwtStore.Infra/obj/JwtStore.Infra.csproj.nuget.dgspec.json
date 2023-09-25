@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj": {}
+    "c:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj": {}
   },
   "projects": {
     "c:\\dev\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj": {
@@ -39,6 +39,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Flunt": {
+              "target": "Package",
+              "version": "[2.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -59,14 +65,14 @@
         }
       }
     },
-    "C:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj": {
+    "c:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj",
+        "projectUniqueName": "c:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj",
         "projectName": "JwtStore.Infra",
-        "projectPath": "C:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj",
+        "projectPath": "c:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj",
         "packagesPath": "C:\\Users\\vpxim\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\JwtStore\\JwtStore.Infra\\obj\\",
+        "outputPath": "c:\\dev\\JwtStore\\JwtStore.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vpxim\\AppData\\Roaming\\NuGet\\NuGet.Config",

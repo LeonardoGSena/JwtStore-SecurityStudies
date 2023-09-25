@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "zX4pjLbARgfUWz98ik76qX50dr7rDjy5kD4BWlajenZi2rFzK2DY1XKW8e5RsVW2YFU2XFBxTXVKiUxT/q6zwA==",
+  "dgSpecHash": "sr1qMzLQAJyOxiJXd937vijaE7CpB9NeGimfqMgYu8bYDHopYk1iZ2NAYXdTJKegbPERFRso4QKqAHN/65/mSg==",
   "success": true,
   "projectFilePath": "c:\\dev\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\vpxim\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512"
+  ],
   "logs": []
 }
