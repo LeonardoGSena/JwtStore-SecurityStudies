@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\dev\\JwtStore\\JwtStore.Api\\JwtStore.Api.csproj": {}
+    "C:\\dev\\JwtStore\\JwtStore.Api\\JwtStore.Api.csproj": {}
   },
   "projects": {
-    "c:\\dev\\JwtStore\\JwtStore.Api\\JwtStore.Api.csproj": {
+    "C:\\dev\\JwtStore\\JwtStore.Api\\JwtStore.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\dev\\JwtStore\\JwtStore.Api\\JwtStore.Api.csproj",
+        "projectUniqueName": "C:\\dev\\JwtStore\\JwtStore.Api\\JwtStore.Api.csproj",
         "projectName": "JwtStore.Api",
-        "projectPath": "c:\\dev\\JwtStore\\JwtStore.Api\\JwtStore.Api.csproj",
+        "projectPath": "C:\\dev\\JwtStore\\JwtStore.Api\\JwtStore.Api.csproj",
         "packagesPath": "C:\\Users\\vpxim\\.nuget\\packages\\",
-        "outputPath": "c:\\dev\\JwtStore\\JwtStore.Api\\obj\\",
+        "outputPath": "C:\\dev\\JwtStore\\JwtStore.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vpxim\\AppData\\Roaming\\NuGet\\NuGet.Config",

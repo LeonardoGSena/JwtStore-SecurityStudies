@@ -9,6 +9,8 @@ C:\dev\JwtStore\JwtStore.Api\bin\Debug\net7.0\Azure.Core.dll
 C:\dev\JwtStore\JwtStore.Api\bin\Debug\net7.0\Azure.Identity.dll
 C:\dev\JwtStore\JwtStore.Api\bin\Debug\net7.0\Flunt.dll
 C:\dev\JwtStore\JwtStore.Api\bin\Debug\net7.0\Humanizer.dll
+C:\dev\JwtStore\JwtStore.Api\bin\Debug\net7.0\MediatR.dll
+C:\dev\JwtStore\JwtStore.Api\bin\Debug\net7.0\MediatR.Contracts.dll
 C:\dev\JwtStore\JwtStore.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\dev\JwtStore\JwtStore.Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\dev\JwtStore\JwtStore.Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
