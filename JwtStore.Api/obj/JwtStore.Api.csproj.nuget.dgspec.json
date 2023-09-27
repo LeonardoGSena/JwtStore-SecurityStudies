@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\JwtStore\\JwtStore.Api\\JwtStore.Api.csproj": {}
+    "c:\\dev\\JwtStore\\JwtStore.Api\\JwtStore.Api.csproj": {}
   },
   "projects": {
-    "C:\\dev\\JwtStore\\JwtStore.Api\\JwtStore.Api.csproj": {
+    "c:\\dev\\JwtStore\\JwtStore.Api\\JwtStore.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\JwtStore\\JwtStore.Api\\JwtStore.Api.csproj",
+        "projectUniqueName": "c:\\dev\\JwtStore\\JwtStore.Api\\JwtStore.Api.csproj",
         "projectName": "JwtStore.Api",
-        "projectPath": "C:\\dev\\JwtStore\\JwtStore.Api\\JwtStore.Api.csproj",
+        "projectPath": "c:\\dev\\JwtStore\\JwtStore.Api\\JwtStore.Api.csproj",
         "packagesPath": "C:\\Users\\vpxim\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\JwtStore\\JwtStore.Api\\obj\\",
+        "outputPath": "c:\\dev\\JwtStore\\JwtStore.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vpxim\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -32,8 +32,8 @@
               "c:\\dev\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj": {
                 "projectPath": "c:\\dev\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj"
               },
-              "C:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj": {
-                "projectPath": "C:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj"
+              "c:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj": {
+                "projectPath": "c:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj"
               }
             }
           }
@@ -121,6 +121,10 @@
             "Flunt": {
               "target": "Package",
               "version": "[2.0.5, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
             }
           },
           "imports": [
@@ -143,14 +147,14 @@
         }
       }
     },
-    "C:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj": {
+    "c:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj",
+        "projectUniqueName": "c:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj",
         "projectName": "JwtStore.Infra",
-        "projectPath": "C:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj",
+        "projectPath": "c:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj",
         "packagesPath": "C:\\Users\\vpxim\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\JwtStore\\JwtStore.Infra\\obj\\",
+        "outputPath": "c:\\dev\\JwtStore\\JwtStore.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vpxim\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -58,4 +58,9 @@ public static class BuilderExtensions
             });
         builder.Services.AddAuthorization();
     }
+
+    public static void AddMediator(this WebApplicationBuilder builer)
+    {
+        builer.Services.AddMediatR(x => x.RegisterServicesFromAssemblies(typeof(Configuration).Assembly));
+    }
 }

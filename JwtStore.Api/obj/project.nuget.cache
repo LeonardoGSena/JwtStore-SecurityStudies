@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "iZsCIiwpM3PlyAWj/6h3hykKAmHueEMWfCUNwm0+L4sn6cOuyhiLlDeI7ss1vtcVaQZB6gJmIMFR4KIaQ5lZPw==",
+  "dgSpecHash": "ix1aZtjOUo3oSvyFrW1LmMvTaDVzQFgf6Gsp39TMg+dAGZZ0VertIqk7DVRe2LH4kK3VUcZX0Awy6lp126SbNw==",
   "success": true,
-  "projectFilePath": "C:\\dev\\JwtStore\\JwtStore.Api\\JwtStore.Api.csproj",
+  "projectFilePath": "c:\\dev\\JwtStore\\JwtStore.Api\\JwtStore.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vpxim\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\vpxim\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\vpxim\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
     "C:\\Users\\vpxim\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\vpxim\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\vpxim\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\vpxim\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.11\\microsoft.aspnetcore.authentication.jwtbearer.7.0.11.nupkg.sha512",
     "C:\\Users\\vpxim\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\vpxim\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

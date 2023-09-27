@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "v1rh02irBgAfjNgstsbXMQH9JVIVmgvy51u4sxC08F2ZjyIvz6jurlEc+uWZU4QQDBG4fhjEy8gOD1Nu1RN33g==",
+  "dgSpecHash": "nQyNxSmag+zu2oq/9d98XYJB7ELhSuvf9M+zMjqGNtKarXnroW9W8lnkmKkVYZHfztRro3QDMMqZPMTHXXMUfA==",
   "success": true,
-  "projectFilePath": "C:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj",
+  "projectFilePath": "c:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vpxim\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\vpxim\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\vpxim\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
+    "C:\\Users\\vpxim\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\vpxim\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\vpxim\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\vpxim\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\vpxim\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.1\\microsoft.data.sqlclient.5.1.1.nupkg.sha512",
