@@ -1,4 +1,4 @@
-c:\dev\JwtStore\JwtStore.Infra\bin\Debug\net7.0\JwtStore.Infra.deps.json
+C:\dev\JwtStore\JwtStore.Infra\bin\Debug\net7.0\JwtStore.Infra.deps.json
 C:\dev\JwtStore\JwtStore.Infra\bin\Debug\net7.0\JwtStore.Infra.dll
 C:\dev\JwtStore\JwtStore.Infra\bin\Debug\net7.0\JwtStore.Infra.pdb
 C:\dev\JwtStore\JwtStore.Infra\bin\Debug\net7.0\JwtStore.Core.dll
@@ -8,8 +8,8 @@ C:\dev\JwtStore\JwtStore.Infra\obj\Debug\net7.0\JwtStore.Infra.GeneratedMSBuildE
 C:\dev\JwtStore\JwtStore.Infra\obj\Debug\net7.0\JwtStore.Infra.AssemblyInfoInputs.cache
 C:\dev\JwtStore\JwtStore.Infra\obj\Debug\net7.0\JwtStore.Infra.AssemblyInfo.cs
 C:\dev\JwtStore\JwtStore.Infra\obj\Debug\net7.0\JwtStore.Infra.csproj.CoreCompileInputs.cache
-c:\dev\JwtStore\JwtStore.Infra\obj\Debug\net7.0\JwtStore.Infra.csproj.CopyComplete
+C:\dev\JwtStore\JwtStore.Infra\obj\Debug\net7.0\JwtStore.Infra.csproj.CopyComplete
 C:\dev\JwtStore\JwtStore.Infra\obj\Debug\net7.0\JwtStore.Infra.dll
 C:\dev\JwtStore\JwtStore.Infra\obj\Debug\net7.0\refint\JwtStore.Infra.dll
 C:\dev\JwtStore\JwtStore.Infra\obj\Debug\net7.0\JwtStore.Infra.pdb
-c:\dev\JwtStore\JwtStore.Infra\obj\Debug\net7.0\ref\JwtStore.Infra.dll
+C:\dev\JwtStore\JwtStore.Infra\obj\Debug\net7.0\ref\JwtStore.Infra.dll

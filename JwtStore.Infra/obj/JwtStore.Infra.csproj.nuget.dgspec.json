@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "c:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj": {}
+    "C:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj": {}
   },
   "projects": {
     "c:\\dev\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj": {
@@ -65,14 +65,14 @@
         }
       }
     },
-    "c:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj": {
+    "C:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj",
+        "projectUniqueName": "C:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj",
         "projectName": "JwtStore.Infra",
-        "projectPath": "c:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj",
+        "projectPath": "C:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj",
         "packagesPath": "C:\\Users\\vpxim\\.nuget\\packages\\",
-        "outputPath": "c:\\dev\\JwtStore\\JwtStore.Infra\\obj\\",
+        "outputPath": "C:\\dev\\JwtStore\\JwtStore.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vpxim\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -108,6 +108,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.11, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.28.1, )"
             }
           },
           "imports": [
