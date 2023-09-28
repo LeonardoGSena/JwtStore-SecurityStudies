@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Auxp5jSqETnU5WZtr0TQJMTk6GvcAZW51AhZyZJnqtpVRqHCT5iCSJxIpsDQRwIf1sWVF5bzGasSjQUKQUbVFA==",
+  "dgSpecHash": "sNmAbRc2Jzno+WGwyAungOOezOc81PwAagrVpwAP5nKUh78+jmebADoT3fr5lE8ulJyfP3BrwyU5syYd3bdL1w==",
   "success": true,
-  "projectFilePath": "c:\\dev\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj",
+  "projectFilePath": "C:\\dev\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vpxim\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
     "C:\\Users\\vpxim\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",

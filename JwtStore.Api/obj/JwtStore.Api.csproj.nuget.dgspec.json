@@ -29,11 +29,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\dev\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj": {
-                "projectPath": "c:\\dev\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj"
+              "C:\\dev\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj": {
+                "projectPath": "C:\\dev\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj"
               },
-              "c:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj": {
-                "projectPath": "c:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj"
+              "C:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj": {
+                "projectPath": "C:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "c:\\dev\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj": {
+    "C:\\dev\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\dev\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj",
+        "projectUniqueName": "C:\\dev\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj",
         "projectName": "JwtStore.Core",
-        "projectPath": "c:\\dev\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj",
+        "projectPath": "C:\\dev\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj",
         "packagesPath": "C:\\Users\\vpxim\\.nuget\\packages\\",
-        "outputPath": "c:\\dev\\JwtStore\\JwtStore.Core\\obj\\",
+        "outputPath": "C:\\dev\\JwtStore\\JwtStore.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vpxim\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -147,14 +147,14 @@
         }
       }
     },
-    "c:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj": {
+    "C:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj",
+        "projectUniqueName": "C:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj",
         "projectName": "JwtStore.Infra",
-        "projectPath": "c:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj",
+        "projectPath": "C:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj",
         "packagesPath": "C:\\Users\\vpxim\\.nuget\\packages\\",
-        "outputPath": "c:\\dev\\JwtStore\\JwtStore.Infra\\obj\\",
+        "outputPath": "C:\\dev\\JwtStore\\JwtStore.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vpxim\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -171,8 +171,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\dev\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj": {
-                "projectPath": "c:\\dev\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj"
+              "C:\\dev\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj": {
+                "projectPath": "C:\\dev\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj"
               }
             }
           }

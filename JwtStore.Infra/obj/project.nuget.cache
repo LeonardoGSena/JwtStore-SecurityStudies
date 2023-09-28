@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nQyNxSmag+zu2oq/9d98XYJB7ELhSuvf9M+zMjqGNtKarXnroW9W8lnkmKkVYZHfztRro3QDMMqZPMTHXXMUfA==",
+  "dgSpecHash": "qyzFb9bqfiM1UmsVyjcKix8/Pu3d+wcK2hzomfIfZr4uQdcQmDxBA6chJ31ysY0wsegThRz3oTQ/Bd6urwh51g==",
   "success": true,
-  "projectFilePath": "c:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj",
+  "projectFilePath": "C:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vpxim\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\vpxim\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
