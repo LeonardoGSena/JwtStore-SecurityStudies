@@ -2851,8 +2851,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\dev\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj": {
-              "projectPath": "C:\\dev\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj"
+            "c:\\dev\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj": {
+              "projectPath": "c:\\dev\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj"
             }
           }
         }

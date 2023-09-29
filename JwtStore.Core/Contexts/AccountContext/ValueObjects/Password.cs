@@ -93,4 +93,7 @@ public class Password : ValueObject
 
         return keyToCheck.SequenceEqual(key);
     }
+
+    internal bool Challenge(string plainTextPassword)
+        => Verify(Hash, plainTextPassword)
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj": {}
+    "c:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj": {}
   },
   "projects": {
-    "C:\\dev\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj": {
+    "c:\\dev\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj",
+        "projectUniqueName": "c:\\dev\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj",
         "projectName": "JwtStore.Core",
-        "projectPath": "C:\\dev\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj",
+        "projectPath": "c:\\dev\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj",
         "packagesPath": "C:\\Users\\vpxim\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\JwtStore\\JwtStore.Core\\obj\\",
+        "outputPath": "c:\\dev\\JwtStore\\JwtStore.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vpxim\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj": {
+    "c:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj",
+        "projectUniqueName": "c:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj",
         "projectName": "JwtStore.Infra",
-        "projectPath": "C:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj",
+        "projectPath": "c:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj",
         "packagesPath": "C:\\Users\\vpxim\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\JwtStore\\JwtStore.Infra\\obj\\",
+        "outputPath": "c:\\dev\\JwtStore\\JwtStore.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vpxim\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -93,8 +93,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\dev\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj": {
-                "projectPath": "C:\\dev\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj"
+              "c:\\dev\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj": {
+                "projectPath": "c:\\dev\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj"
               }
             }
           }
