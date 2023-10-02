@@ -21,7 +21,7 @@ public class Handler : IRequestHandler<Request, Response>
         }
         catch
         {
-            return new Response("Não foi possível validar sua requisição", 500);
+            return new Response("Não foi possível validar sua requisiçãoo", 500);
         }
         #endregion
 
@@ -37,7 +37,7 @@ public class Handler : IRequestHandler<Request, Response>
         }
         catch
         {
-            return new Response("Não foi possível validar sua requisição", 500);
+            return new Response("Não foi possível validar sua requisiçãozinha", 500);
         }
         #endregion
 

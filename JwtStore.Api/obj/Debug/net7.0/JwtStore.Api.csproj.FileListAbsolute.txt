@@ -1,8 +1,8 @@
 C:\dev\JwtStore\JwtStore.Api\bin\Debug\net7.0\appsettings.Development.json
 C:\dev\JwtStore\JwtStore.Api\bin\Debug\net7.0\appsettings.json
 C:\dev\JwtStore\JwtStore.Api\bin\Debug\net7.0\JwtStore.Api.exe
-C:\dev\JwtStore\JwtStore.Api\bin\Debug\net7.0\JwtStore.Api.deps.json
-C:\dev\JwtStore\JwtStore.Api\bin\Debug\net7.0\JwtStore.Api.runtimeconfig.json
+c:\dev\JwtStore\JwtStore.Api\bin\Debug\net7.0\JwtStore.Api.deps.json
+c:\dev\JwtStore\JwtStore.Api\bin\Debug\net7.0\JwtStore.Api.runtimeconfig.json
 C:\dev\JwtStore\JwtStore.Api\bin\Debug\net7.0\JwtStore.Api.dll
 C:\dev\JwtStore\JwtStore.Api\bin\Debug\net7.0\JwtStore.Api.pdb
 C:\dev\JwtStore\JwtStore.Api\bin\Debug\net7.0\Azure.Core.dll
@@ -73,9 +73,9 @@ C:\dev\JwtStore\JwtStore.Api\obj\Debug\net7.0\staticwebassets.pack.json
 C:\dev\JwtStore\JwtStore.Api\obj\Debug\net7.0\staticwebassets.build.json
 C:\dev\JwtStore\JwtStore.Api\obj\Debug\net7.0\staticwebassets.development.json
 C:\dev\JwtStore\JwtStore.Api\obj\Debug\net7.0\scopedcss\bundle\JwtStore.Api.styles.css
-C:\dev\JwtStore\JwtStore.Api\obj\Debug\net7.0\JwtStore.Api.csproj.CopyComplete
+c:\dev\JwtStore\JwtStore.Api\obj\Debug\net7.0\JwtStore.Api.csproj.CopyComplete
 C:\dev\JwtStore\JwtStore.Api\obj\Debug\net7.0\JwtStore.Api.dll
 C:\dev\JwtStore\JwtStore.Api\obj\Debug\net7.0\refint\JwtStore.Api.dll
 C:\dev\JwtStore\JwtStore.Api\obj\Debug\net7.0\JwtStore.Api.pdb
-C:\dev\JwtStore\JwtStore.Api\obj\Debug\net7.0\JwtStore.Api.genruntimeconfig.cache
-C:\dev\JwtStore\JwtStore.Api\obj\Debug\net7.0\ref\JwtStore.Api.dll
+c:\dev\JwtStore\JwtStore.Api\obj\Debug\net7.0\JwtStore.Api.genruntimeconfig.cache
+c:\dev\JwtStore\JwtStore.Api\obj\Debug\net7.0\ref\JwtStore.Api.dll

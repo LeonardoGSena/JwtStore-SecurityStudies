@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nQyNxSmag+zu2oq/9d98XYJB7ELhSuvf9M+zMjqGNtKarXnroW9W8lnkmKkVYZHfztRro3QDMMqZPMTHXXMUfA==",
+  "dgSpecHash": "ZS2D6WkTVAAUeF7NI3eqttdz5BZngWQHKXsIOmXxCjZDs4cKpTvxcUmMk9oVOTSMPjRD9GKs++b74ifTFLB2sA==",
   "success": true,
   "projectFilePath": "c:\\dev\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj",
   "expectedPackageFiles": [

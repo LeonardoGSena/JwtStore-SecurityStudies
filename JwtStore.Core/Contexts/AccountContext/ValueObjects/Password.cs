@@ -95,5 +95,5 @@ public class Password : ValueObject
     }
 
     internal bool Challenge(string plainTextPassword)
-        => Verify(Hash, plainTextPassword)
+        => Verify(Hash, plainTextPassword);
 }
